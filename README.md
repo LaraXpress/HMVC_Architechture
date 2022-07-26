@@ -1,2 +1,2 @@
-# HMVC_Architechture
-HMVC (Hierarchical Model View Controller) Architecture 
+# HMVC Architechture (Hierarchical Model View Controller) 
+
